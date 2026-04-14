@@ -1,8 +1,8 @@
 # Mist-the-best-_-Updater
 Aplicación dedicada a la gran Mist / Mistica - update cores and firm
 
-Dejo el codigo de la primera versión, hecha en python (MistTheBest_10.py
-Dejo la última compilación .exe de 14/4/2026 en /dist
+Donde se ejecute el programa crea una carpeta llamada Mist, y dentro de ella las subcarpetas correspondientes a lo que se desgargue.
+Fácil y sencillo!!
 
 
 De momento en desarollo, se agradecen colaboraciones y sugerancias :)   !!

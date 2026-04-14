@@ -1,8 +1,0 @@
-
-https://github.com/mist-devel/mist-binaries
-
-https://github.com/Gehstock/Mist_FPGA
-
-https://github.com/tdelage26/Mist_FPGA
-
-
